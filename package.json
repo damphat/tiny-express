@@ -1,0 +1,16 @@
+{
+  "name": "tiny-express",
+  "version": "0.0.0",
+  "description": "Remake expressjs",
+  "main": "createApp.js",
+  "scripts": {
+    "test": "mocha",
+    "demo": "node-dev examples/helloworld.js"
+  },
+  "author": "Phat <damphat@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.1.3",
+    "node-dev": "^5.2.0"
+  }
+}
